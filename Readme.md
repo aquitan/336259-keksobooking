@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Aquitan](https://up.htmlacademy.ru/javascript/16/user/336259).
-* Наставник: `Неизвестно`.
+* Наставник: `Олег Зубов`.
 
 ---
 
